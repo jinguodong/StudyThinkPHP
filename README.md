@@ -1,1 +1,2 @@
 StudyThinkPHP
+学习ThinkPHP，并且熟悉NetBeans for PHP的代码仓库，可能部分代码不能正常运行。
